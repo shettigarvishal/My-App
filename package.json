@@ -1,5 +1,5 @@
 {
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://shettigarvishal.github.io/My-App",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.1",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-router-dom": "^5.3.4",
